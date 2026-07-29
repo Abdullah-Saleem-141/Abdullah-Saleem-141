@@ -79,4 +79,4 @@ I am a Computer Science undergraduate at **COMSATS University Islamabad (Lahore 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Saleem-141&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Saleem-141&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdullah-Saleem-141&theme=radical)](https://git.io/streak-stats)
