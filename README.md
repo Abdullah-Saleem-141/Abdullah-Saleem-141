@@ -22,30 +22,28 @@ I am a Computer Science undergraduate at **COMSATS University Islamabad (Lahore 
 
 ### Programming Languages
 
-* Python
-* Java
-* C++
-* SQL
-* Java Script
+* ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) Python
+* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) Java
+* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2++&logoColor=white) C++
+* ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) SQL
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) JavaScript
 
 ### Libraries & Frameworks
 
-* NumPy
-* Pandas
-* Scikit-learn
-* TensorFlow
-* PyTorch
-* OpenCV
-* JavaFX
+* ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) NumPy
+* ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) Pandas
+* ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) Scikit-learn
+* ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) TensorFlow
+* ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) PyTorch
+* ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) OpenCV
+* ![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) JavaFX
 
 ### Tools
 
-* Git
-* GitHub
-* Visual Studio Code
-* IntelliJ IDEA
-* JDK 23
-* MSYS2 / MinGW (g++ compiler)
+* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) Git
+* ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) GitHub
+* ![Visual Studio Code](https://img.shields.io/badge/vs%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) Visual Studio Code
+* ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) IntelliJ IDEA
 
 ### Areas of Interest
 
@@ -71,9 +69,11 @@ I am a Computer Science undergraduate at **COMSATS University Islamabad (Lahore 
 
 ## Connect With Me
 
-* **Email:** [abdullah.saleem20202@gmail.com](mailto:abdullah.saleem20202@gmail.com)
-* **LinkedIn:** https://www.linkedin.com/in/abdullah-saleem-04a434388/
+* [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.saleem20202@gmail.com)
+* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-saleem-04a434388/)
+* [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdullah__.saleem__/?hl=en)
+* [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Abdullah12177)
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Saleem-141&theme=radical)](https://git.io/streak-bounce)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Saleem-141&theme=radical)](https://github.com/Abdullah-Saleem-141)
