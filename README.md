@@ -67,13 +67,32 @@ I am a Computer Science undergraduate at **COMSATS University Islamabad (Lahore 
 
 ---
 
-## Connect With Me
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdullah-Saleem-141&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdullah-Saleem-141&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
 
-* [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.saleem20202@gmail.com)
-* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-saleem-04a434388/)
-* [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdullah__.saleem__/?hl=en)
-* [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Abdullah12177)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdullah-Saleem-141&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Saleem-141&theme=radical)](https://github.com/Abdullah-Saleem-141)
+## Certifications
+
+| Certificate | Issued By | Credential |
+|-------------|-----------|------------|
+| CS50's Introduction to Cybersecurity | Harvard University (via edX) | [View Certificate](https://cs50.harvard.edu/certificates/5d12fed0-b301-498f-ae45-2fd0dc59c077) |
+| Google Sheets | Google Cloud (Coursera) | [View Certificate](https://coursera.org/verify/339B1XXFJYHC) |
+
+---
+
+## Connect With Me
+
+* [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.saleem20202@gmail.com)
+
+* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-saleem-04a434388/)
+
+* [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdullah__.saleem__/?hl=en)
+
+* [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Abdullah12177)
